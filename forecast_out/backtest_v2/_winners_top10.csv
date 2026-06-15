@@ -1,0 +1,21 @@
+rank,product,metric,config,absSum,sMAPE
+1,Choco Truffle Cake,qty,B_daily_tuned_cps,34.00931360362481,118.52934766279581
+1,Choco Truffle Cake,totalValue,B_daily_tuned_cps,65.01863293682652,112.46140053541673
+2,Pineapple Cake,qty,A_daily_cps0.05,50.28864819246526,118.30777333119913
+2,Pineapple Cake,totalValue,A_daily_cps0.05,83.25973089908851,114.04574403669649
+3,Fresh Fruit Cake,qty,B_daily_tuned_cps,7.007876960028746,127.59925227329055
+3,Fresh Fruit Cake,totalValue,B_daily_tuned_cps,44.79811121090395,116.59426127702007
+4,Ferrero Rocher Cake,qty,C_weekly_cps0.05,11.364512389262012,29.81400228939592
+4,Ferrero Rocher Cake,totalValue,B_daily_tuned_cps,13.195246572494584,142.02716194766268
+5,Belgium Choco Mousse Cake,qty,B_daily_tuned_cps,73.34731147217326,125.64382284523052
+5,Belgium Choco Mousse Cake,totalValue,B_daily_tuned_cps,24.07390232830244,131.8213310908914
+6,Biscoff Jar Cake,qty,C_weekly_cps0.05,11.909166428816723,44.6208421450021
+6,Biscoff Jar Cake,totalValue,B_daily_tuned_cps,9.309491660106751,133.38668935880227
+7,Dream Cake,qty,C_weekly_cps0.05,0.9463812448457766,27.338531715687157
+7,Dream Cake,totalValue,A_daily_cps0.05,8.322592247740717,140.62446987490551
+8,Tiramisu Cake,qty,B_daily_tuned_cps,54.04315446442954,161.2592768986451
+8,Tiramisu Cake,totalValue,B_daily_tuned_cps,13.638324874387056,133.6824855188015
+9,Butterscotch Cake,qty,B_daily_tuned_cps,80.76279749363174,122.67821532035634
+9,Butterscotch Cake,totalValue,A_daily_cps0.05,133.9097305234643,124.43189262851351
+10,Choco Vanilla Cake,qty,A_daily_cps0.05,15.673785058883624,136.54185656727284
+10,Choco Vanilla Cake,totalValue,B_daily_tuned_cps,21.53191057747,126.28303128495213
