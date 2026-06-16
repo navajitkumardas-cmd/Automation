@@ -1,0 +1,14 @@
+feature,importance
+lag8,3989
+lag1,3845
+lag26,3729
+rolling_mean_lag1_window_size13,3689
+rolling_mean_lag1_window_size4,3612
+rolling_mean_lag4_window_size4,3513
+lag2,3481
+lag13,3367
+lag4,3213
+lag52,3021
+month,1487
+quarter,179
+year,75
