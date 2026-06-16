@@ -1,0 +1,21 @@
+rank,product,metric,chosen_model,default_cv_sMAPE,best_cv_sMAPE,best_cv_model,reason
+1,Choco Truffle Cake,qty,Croston,23.71482205863233,22.255798770686813,AutoARIMA,gate (1.5pp < 5.0)
+1,Choco Truffle Cake,totalValue,Croston,23.532225838794556,22.36203656051608,AutoARIMA,gate (1.2pp < 5.0)
+2,Pineapple Cake,qty,Croston,24.728747555890944,23.230969955362283,AutoARIMA,gate (1.5pp < 5.0)
+2,Pineapple Cake,totalValue,AutoARIMA,36.92314010193706,30.281729518803733,AutoARIMA,beats Croston by 6.6pp
+3,Fresh Fruit Cake,qty,Prophet,49.64298093165237,37.04691176526219,Prophet,beats Croston by 12.6pp
+3,Fresh Fruit Cake,totalValue,Prophet,47.61659923000317,38.962226618396436,Prophet,beats Croston by 8.7pp
+4,Ferrero Rocher Cake,qty,Prophet,49.47141777927236,44.34705948557319,Prophet,beats Croston by 5.1pp
+4,Ferrero Rocher Cake,totalValue,Prophet,48.315321101253204,39.46394790084732,Prophet,beats Croston by 8.9pp
+5,Belgium Choco Mousse Cake,qty,Croston,43.06940551192685,38.14552552615035,AutoARIMA,gate (4.9pp < 5.0)
+5,Belgium Choco Mousse Cake,totalValue,Croston,41.54945299380486,38.06064922296891,AutoARIMA,gate (3.5pp < 5.0)
+6,Biscoff Jar Cake,qty,Croston,32.752734049063136,32.07224183314539,AutoARIMA,gate (0.7pp < 5.0)
+6,Biscoff Jar Cake,totalValue,Croston,31.75796617597242,28.553562581080612,AutoARIMA,gate (3.2pp < 5.0)
+7,Dream Cake,qty,Croston,37.14663701846151,35.076303449637905,Prophet,gate (2.1pp < 5.0)
+7,Dream Cake,totalValue,Croston,35.350056188687326,35.013388462869734,LightGBM,gate (0.3pp < 5.0)
+8,Tiramisu Cake,qty,Croston,50.89821930058045,47.82135545875433,Prophet,gate (3.1pp < 5.0)
+8,Tiramisu Cake,totalValue,Croston,51.17871381574414,51.17871381574414,Croston,gate (0.0pp < 5.0)
+9,Butterscotch Cake,qty,Croston,32.568004585691824,32.568004585691824,Croston,gate (0.0pp < 5.0)
+9,Butterscotch Cake,totalValue,Croston,29.891984451318514,29.449740744315292,Prophet,gate (0.4pp < 5.0)
+10,Choco Vanilla Cake,qty,AutoARIMA,46.919035502813195,40.50991440711612,AutoARIMA,beats Croston by 6.4pp
+10,Choco Vanilla Cake,totalValue,Prophet,45.372382918081264,38.98485269006396,Prophet,beats Croston by 6.4pp

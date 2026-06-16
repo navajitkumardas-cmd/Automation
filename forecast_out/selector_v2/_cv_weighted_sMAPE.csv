@@ -1,0 +1,101 @@
+rank,product,metric,model,weighted_sMAPE
+1,Choco Truffle Cake,qty,AutoARIMA,22.255798770686813
+1,Choco Truffle Cake,qty,AutoETS,25.24918496440549
+1,Choco Truffle Cake,qty,Croston,23.71482205863233
+1,Choco Truffle Cake,qty,LightGBM,27.456653128146005
+1,Choco Truffle Cake,qty,Prophet,25.507255176172574
+1,Choco Truffle Cake,totalValue,AutoARIMA,22.36203656051608
+1,Choco Truffle Cake,totalValue,AutoETS,23.372970426055517
+1,Choco Truffle Cake,totalValue,Croston,23.532225838794556
+1,Choco Truffle Cake,totalValue,LightGBM,24.5971720153513
+1,Choco Truffle Cake,totalValue,Prophet,29.17063065446758
+2,Pineapple Cake,qty,AutoARIMA,23.230969955362283
+2,Pineapple Cake,qty,AutoETS,24.9144451121159
+2,Pineapple Cake,qty,Croston,24.728747555890944
+2,Pineapple Cake,qty,LightGBM,26.023954018234054
+2,Pineapple Cake,qty,Prophet,32.276896362699205
+2,Pineapple Cake,totalValue,AutoARIMA,30.281729518803733
+2,Pineapple Cake,totalValue,AutoETS,36.09787889594784
+2,Pineapple Cake,totalValue,Croston,36.92314010193706
+2,Pineapple Cake,totalValue,LightGBM,61.70736668123701
+2,Pineapple Cake,totalValue,Prophet,51.3586050949967
+3,Fresh Fruit Cake,qty,AutoARIMA,52.44159258758212
+3,Fresh Fruit Cake,qty,AutoETS,51.863947156391895
+3,Fresh Fruit Cake,qty,Croston,49.64298093165237
+3,Fresh Fruit Cake,qty,LightGBM,46.13036614510772
+3,Fresh Fruit Cake,qty,Prophet,37.04691176526219
+3,Fresh Fruit Cake,totalValue,AutoARIMA,47.08721920898915
+3,Fresh Fruit Cake,totalValue,AutoETS,48.607152547094955
+3,Fresh Fruit Cake,totalValue,Croston,47.61659923000317
+3,Fresh Fruit Cake,totalValue,LightGBM,67.26851367332225
+3,Fresh Fruit Cake,totalValue,Prophet,38.962226618396436
+4,Ferrero Rocher Cake,qty,AutoARIMA,49.17673897661036
+4,Ferrero Rocher Cake,qty,AutoETS,48.06169393313833
+4,Ferrero Rocher Cake,qty,Croston,49.47141777927236
+4,Ferrero Rocher Cake,qty,LightGBM,49.92210961061172
+4,Ferrero Rocher Cake,qty,Prophet,44.34705948557319
+4,Ferrero Rocher Cake,totalValue,AutoARIMA,51.99981495432074
+4,Ferrero Rocher Cake,totalValue,AutoETS,65.69718002883117
+4,Ferrero Rocher Cake,totalValue,Croston,48.315321101253204
+4,Ferrero Rocher Cake,totalValue,LightGBM,58.054372847090875
+4,Ferrero Rocher Cake,totalValue,Prophet,39.46394790084732
+5,Belgium Choco Mousse Cake,qty,AutoARIMA,38.14552552615035
+5,Belgium Choco Mousse Cake,qty,AutoETS,47.95023131707606
+5,Belgium Choco Mousse Cake,qty,Croston,43.06940551192685
+5,Belgium Choco Mousse Cake,qty,LightGBM,43.26136440411575
+5,Belgium Choco Mousse Cake,qty,Prophet,39.239819493105514
+5,Belgium Choco Mousse Cake,totalValue,AutoARIMA,38.06064922296891
+5,Belgium Choco Mousse Cake,totalValue,AutoETS,41.99606854536014
+5,Belgium Choco Mousse Cake,totalValue,Croston,41.54945299380486
+5,Belgium Choco Mousse Cake,totalValue,LightGBM,47.19853845374639
+5,Belgium Choco Mousse Cake,totalValue,Prophet,51.045839140046226
+6,Biscoff Jar Cake,qty,AutoARIMA,32.07224183314539
+6,Biscoff Jar Cake,qty,AutoETS,33.348093564357775
+6,Biscoff Jar Cake,qty,Croston,32.752734049063136
+6,Biscoff Jar Cake,qty,LightGBM,32.21600520022233
+6,Biscoff Jar Cake,qty,Prophet,66.67203612992627
+6,Biscoff Jar Cake,totalValue,AutoARIMA,28.553562581080612
+6,Biscoff Jar Cake,totalValue,AutoETS,32.358899015855556
+6,Biscoff Jar Cake,totalValue,Croston,31.75796617597242
+6,Biscoff Jar Cake,totalValue,LightGBM,36.243442764335605
+6,Biscoff Jar Cake,totalValue,Prophet,65.63614501625392
+7,Dream Cake,qty,AutoARIMA,38.47204785474448
+7,Dream Cake,qty,AutoETS,36.22502544718212
+7,Dream Cake,qty,Croston,37.14663701846151
+7,Dream Cake,qty,LightGBM,42.793140034701
+7,Dream Cake,qty,Prophet,35.076303449637905
+7,Dream Cake,totalValue,AutoARIMA,35.3338017043358
+7,Dream Cake,totalValue,AutoETS,35.342955107647185
+7,Dream Cake,totalValue,Croston,35.350056188687326
+7,Dream Cake,totalValue,LightGBM,35.013388462869734
+7,Dream Cake,totalValue,Prophet,40.03361956260854
+8,Tiramisu Cake,qty,AutoARIMA,53.42637654597442
+8,Tiramisu Cake,qty,AutoETS,57.885795785819305
+8,Tiramisu Cake,qty,Croston,50.89821930058045
+8,Tiramisu Cake,qty,LightGBM,51.10574030784889
+8,Tiramisu Cake,qty,Prophet,47.82135545875433
+8,Tiramisu Cake,totalValue,AutoARIMA,61.128714565818754
+8,Tiramisu Cake,totalValue,AutoETS,54.635478529431005
+8,Tiramisu Cake,totalValue,Croston,51.17871381574414
+8,Tiramisu Cake,totalValue,LightGBM,53.72100832034333
+8,Tiramisu Cake,totalValue,Prophet,53.89366305522112
+9,Butterscotch Cake,qty,AutoARIMA,37.43081617883441
+9,Butterscotch Cake,qty,AutoETS,34.031916787790834
+9,Butterscotch Cake,qty,Croston,32.568004585691824
+9,Butterscotch Cake,qty,LightGBM,33.319978439057586
+9,Butterscotch Cake,qty,Prophet,34.0225396529016
+9,Butterscotch Cake,totalValue,AutoARIMA,34.56568027621826
+9,Butterscotch Cake,totalValue,AutoETS,30.175821331621194
+9,Butterscotch Cake,totalValue,Croston,29.891984451318514
+9,Butterscotch Cake,totalValue,LightGBM,35.729126065090554
+9,Butterscotch Cake,totalValue,Prophet,29.449740744315292
+10,Choco Vanilla Cake,qty,AutoARIMA,40.50991440711612
+10,Choco Vanilla Cake,qty,AutoETS,53.27183110232742
+10,Choco Vanilla Cake,qty,Croston,46.919035502813195
+10,Choco Vanilla Cake,qty,LightGBM,44.211265575208834
+10,Choco Vanilla Cake,qty,Prophet,49.19646139774017
+10,Choco Vanilla Cake,totalValue,AutoARIMA,46.65303483009544
+10,Choco Vanilla Cake,totalValue,AutoETS,46.57352583272547
+10,Choco Vanilla Cake,totalValue,Croston,45.372382918081264
+10,Choco Vanilla Cake,totalValue,LightGBM,50.127815963033036
+10,Choco Vanilla Cake,totalValue,Prophet,38.98485269006396
