@@ -1,0 +1,21 @@
+rank,product,metric,chosen_model,cv_mean_sMAPE
+1,Choco Truffle Cake,qty,AutoARIMA,20.89921960789387
+1,Choco Truffle Cake,totalValue,AutoARIMA,22.48845185691757
+2,Pineapple Cake,qty,Croston,22.22133246049566
+2,Pineapple Cake,totalValue,AutoARIMA,29.505823080167243
+3,Fresh Fruit Cake,qty,Prophet,36.74823034572797
+3,Fresh Fruit Cake,totalValue,Prophet,34.531236944105856
+4,Ferrero Rocher Cake,qty,LightGBM,42.691977534719754
+4,Ferrero Rocher Cake,totalValue,Prophet,44.35132501230531
+5,Belgium Choco Mousse Cake,qty,Prophet,36.71953538075575
+5,Belgium Choco Mousse Cake,totalValue,AutoARIMA,36.32725936972277
+6,Biscoff Jar Cake,qty,LightGBM,27.80864041051425
+6,Biscoff Jar Cake,totalValue,AutoARIMA,25.37267330395721
+7,Dream Cake,qty,Prophet,30.546092839166953
+7,Dream Cake,totalValue,LightGBM,33.82235174232396
+8,Tiramisu Cake,qty,LightGBM,46.670950400982505
+8,Tiramisu Cake,totalValue,Croston,50.60068840900861
+9,Butterscotch Cake,qty,Croston,31.402203162624005
+9,Butterscotch Cake,totalValue,Prophet,23.7086433095879
+10,Choco Vanilla Cake,qty,AutoARIMA,35.5858956057893
+10,Choco Vanilla Cake,totalValue,Prophet,31.47770715661126
