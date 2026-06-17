@@ -1,0 +1,109 @@
+# Recipe checker configuration.
+# Copy this file to config.yaml and fill in selectors that match your site.
+# Run the script in dry-run first; flip `apply_changes` to true when satisfied.
+
+site:
+  login_url: "https://fa.resoee.com/console2/login"
+  recipe_list_url: "https://fa.resoee.com/console2/kitchen/cooking/recipe"
+  # If recipes are paginated, the script will keep clicking this until it disappears.
+  next_page_selector: 'button[aria-label="Next page"]'
+
+auth:
+  # Credentials are read from environment variables: RECIPE_USER, RECIPE_PASS
+  username_selector: 'input[name="username"]'
+  password_selector: 'input[name="password"]'
+  submit_selector: 'button[type="submit"]'
+  # A selector that only appears once login succeeded — used to wait for the dashboard.
+  logged_in_marker_selector: 'nav [data-testid="user-menu"]'
+
+list_page:
+  # Each row/card representing one recipe on the listing page.
+  row_selector: 'tr[data-recipe-id], [data-testid="recipe-row"]'
+  # Clickable element inside the row that opens the recipe detail/edit page.
+  open_selector: 'a.recipe-name, [data-testid="open-recipe"]'
+
+detail_page:
+  # Selector that proves the detail page is fully loaded.
+  ready_selector: 'form[data-testid="recipe-form"]'
+  # Map of logical field name -> CSS selector for the input on the detail page.
+  fields:
+    name: 'input[name="name"]'
+    category: 'select[name="category"]'
+    serving_size: 'input[name="serving_size"]'
+    prep_time: 'input[name="prep_time_minutes"]'
+    cook_time: 'input[name="cook_time_minutes"]'
+    description: 'textarea[name="description"]'
+  # Repeating ingredient rows.
+  ingredient_row_selector: '[data-testid="ingredient-row"]'
+  ingredient_fields:
+    name: 'input[name$="[name]"]'
+    quantity: 'input[name$="[quantity]"]'
+    unit: 'input[name$="[unit]"], select[name$="[unit]"]'
+  steps_selector: '[data-testid="step-row"] textarea'
+  save_selector: 'button[data-testid="save-recipe"]'
+  save_confirmation_selector: '[role="alert"]:has-text("saved")'
+
+# --- Validation rules ---
+required_fields:
+  recipe:
+    - name
+    - category
+    - serving_size
+    - prep_time
+    - cook_time
+  ingredient:
+    - name
+    - quantity
+    - unit
+  # Minimum number of steps a recipe should have.
+  min_steps: 1
+
+# --- Normalisation rules ---
+# Units are normalised to a canonical short form. Anything matching a key (case-insensitive,
+# trimmed, plurals stripped) becomes the value.
+unit_aliases:
+  gram: "g"
+  grams: "g"
+  gm: "g"
+  gms: "g"
+  kilogram: "kg"
+  kilograms: "kg"
+  kgs: "kg"
+  milliliter: "ml"
+  millilitre: "ml"
+  milliliters: "ml"
+  millilitres: "ml"
+  liter: "l"
+  litre: "l"
+  liters: "l"
+  litres: "l"
+  tablespoon: "tbsp"
+  tablespoons: "tbsp"
+  tbs: "tbsp"
+  teaspoon: "tsp"
+  teaspoons: "tsp"
+  piece: "pc"
+  pieces: "pc"
+  pcs: "pc"
+  ounce: "oz"
+  ounces: "oz"
+  pound: "lb"
+  pounds: "lb"
+  lbs: "lb"
+  cup: "cup"
+  cups: "cup"
+
+text_normalisation:
+  # Title-case the recipe name; trim whitespace everywhere.
+  title_case_fields: ["name"]
+  trim_fields: ["name", "category", "description"]
+  # Collapse runs of internal whitespace into a single space.
+  collapse_whitespace_fields: ["name", "description"]
+
+# --- Run behaviour ---
+runtime:
+  apply_changes: false        # dry-run by default. set true to write back.
+  headless: true              # set false to watch the browser while debugging.
+  max_recipes: 0              # 0 = no limit.
+  report_path: "report.json"
+  slow_mo_ms: 0               # add a small delay between actions when debugging.
