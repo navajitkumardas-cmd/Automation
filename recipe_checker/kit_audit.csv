@@ -1,0 +1,184 @@
+#,Product Name,UY ID,Final Product SKU,KIT SKU,KIT Name,# Kit Items,Has L1 (Assembly),Has L2 (Final),Issue
+1,Almond Honey Tea Cake,29153,1006079,KIT003,Almond Honey Tea cake (PC) — kit,9,Y,Y,OK
+2,Almond Praline Cake (500 gm),5938,1001255,KIT147,Sugar syrup(Hot kitchen) (50 Kg) — kit,19,Y,Y,OK
+3,American Choco Chip Cookies,24900,1004358,KIT006,American Choco Chip Cookies (PC) — kit,9,Y,Y,OK
+4,Anjeer Walnut Tea cake,25533,1004583,KIT007,Anjeer Walnut Tea cake (PC) — kit,10,Y,Y,OK
+5,Apple Pie Tart (),6022,1002080,KIT008,Apple Pie Tart(Pc) — kit,3,Y,Y,OK
+6,Bake Cheese Pastry Base,4528,1000250,,,0,Y,Y,NO KIT
+7,Baked Cheese Garlic Crackers 100g,23640,1004235,,,0,Y,Y,NO KIT
+8,Baked Cheesecake (1 Kg),25530,1004572,,,0,Y,Y,NO KIT
+9,Baked Cheesecake (600 gm) (600 gm),4523,1000920,,,0,Y,Y,NO KIT
+10,Baked Cream Onion Crackers (100g),23641,1004236,,,0,Y,Y,NO KIT
+11,Baked Whole Wheat Seeded Crackers (100g),23642,1004237,,,0,Y,Y,NO KIT
+12,Banana And Walnut Tea Cake (Eggless),6012,1000502,KIT009,Banana And Walnut Tea Cake(Pc) ((EGGLESS)) — kit,11,Y,Y,OK
+13,Banoffee Jar Cake,5709,1000353,KIT010,Banoffee Jar(Cf) — kit,5,Y,Y,OK
+14,Basic Mango Jar Cake,22972,1003457,KIT011,Basic Mango Jar Cake (CF) — kit,4,Y,Y,OK
+15,Basque Cheesecake,20265,1002400,,,0,Y,Y,NO KIT
+16,Basque Cheesecake Slice,22710,1003129,,,0,Y,Y,NO KIT
+17,Belgian Chocolate Mousse Jar Cake,5756,1001192,KIT014,Belgium Mousee Jar Cake(Cf) — kit,6,Y,Y,OK
+18,Belgian Party Tub,27534,1004989,KIT012,Belgian Party Tub (DR) — kit,10,Y,Y,OK
+19,Belgium Choco Mousse Cake (500 gm),5628,1002366,KIT013,Belgium Choco Mousee Cake(Dr)  (500 GM) — kit,13,Y,Y,OK
+20,Biscoff Baked Cheesecake (600 gm),5660,1001195,,,0,N,Y,NO KIT; NO L1
+21,Biscoff Baked Cheesecake Slice,14613,1001588,,,0,N,Y,NO KIT; NO L1
+22,Biscoff Brownie (6 pcs),14343,1001539,,,0,Y,Y,NO KIT
+23,Biscoff Cheesecake Jar,5755,1001190,KIT015,Biscoff Cheesecake Jar (DR) — kit,2,Y,Y,OK
+24,Black Forest Pastry,4348,1000102,KIT019,Black Forest Pastry(Cf) — kit,6,Y,Y,OK
+25,Blueberry & Choco Chip Cup cake (2 each),23338,1003552,KIT120,Overloaded Choco Chip Cup Cake(Cf) — kit,3,Y,Y,OK
+26,Blueberry Bake Cheesecake Slice,15259,1002409,,,0,N,Y,NO KIT; NO L1
+27,Blueberry Baked Cheesecake (600 gm),13296,1001194,,,0,N,Y,NO KIT; NO L1
+28,Blueberry Cup Cake,6010,1000317,KIT020,Blueberry Cup Cake(Cf) — kit,2,Y,Y,OK
+29,Blueberry Jar Cake (180 ML),5710,1000113,KIT022,Blueberry Jar Cake(Cf) — kit,3,Y,Y,OK
+30,Blueberry Jar Cake (350 ml),13494,1002375,KIT021,Blueberry Jar Cake (350 ml) (CF) (350 ML) — kit,3,Y,Y,OK
+31,Brookie Brownie,4517,1000990,,,0,Y,Y,NO KIT
+32,Buttercream Bento and Cupcake Combo (300gm),23011,1003480,KIT023,Buttercream Bento cake (CF) — kit,6,Y,Y,OK
+33,Butterscotch Bento Cake,16460,1002835,KIT133,Rich Choco Vanilla Bento Cake(Cf)  (500 GM) — kit,7,Y,Y,OK
+34,Butterscotch Cake (500 gm),4357,1000009,KIT025,Butterscotch Cake(Cf) (500 gm) — kit,5,Y,Y,OK
+35,Butterscotch Jar Cake (180 ml),5713,1000114,KIT027,Butterscotch Jar Cake(Cf) — kit,4,Y,Y,OK
+36,Butterscotch Jar Cake (350 ml),13495,1000115,KIT026,Butterscotch Jar Cake (350 ml) (CF) (350 ML) — kit,3,Y,Y,OK
+37,Butterscotch Pastry,4349,1000103,KIT028,Butterscotch Pastry(Cf) — kit,5,Y,Y,OK
+38,Cake Pops,23036,1003506,KIT051,Chocolate Pops — kit,4,Y,Y,OK
+39,Caramel Cheese Verrine Cup,5764,1000961,KIT029,Caramel Cheese Verrine Cup(Lr) — kit,10,Y,Y,OK
+40,Cheesecake Party Tub,27536,1004991,KIT032,Cheesecake Party Tub (DR) — kit,7,Y,Y,OK
+41,Choco Crunch Jar Cake (180 ML),5715,1000119,KIT034,Choco Crunch Jar Cake(Cf) — kit,2,Y,Y,OK
+42,Choco Crunch Jar Cake (350 ml),13497,1000118,KIT033,Choco Crunch Jar Cake (350 ml) (CF) (350 ML) — kit,2,Y,Y,OK
+43,Choco Crunch Kitkat Cake (500 gm),4358,1000011,KIT035,Choco Crunch Kitkat Cake(Cf) (500 gm) — kit,5,Y,Y,OK
+44,Choco Lava (Pcs ),12849,1000464,KIT036,Choco Lava(Pc) (PCS) — kit,5,Y,Y,OK
+45,Choco Mud Jar Cake (180 ML),5716,1000120,KIT038,Choco Mud Jar Cake(Cf) — kit,2,Y,Y,OK
+46,Choco Mud Jar Cake (350 ml) (350 ML),11717,1000121,KIT037,Choco Mud Jar Cake (350 ml) (CF) (350 ML) — kit,2,Y,Y,OK
+47,Choco Tart (),6021,1000449,,,0,Y,Y,NO KIT
+48,Choco Truffle Cake (500 gm),4359,1000013,KIT039,Choco Truffle Cake(Cf) (500 gm) — kit,6,Y,Y,OK
+49,Choco Truffle Pastry,4350,1000104,KIT040,Choco Truffle Pastry (Cf) — kit,5,Y,Y,OK
+50,Choco Vanilla Cake (6 KG),4360,1005992,KIT041,Choco Vanilla Cake(Cf) (500 gm) — kit,2,Y,Y,OK
+51,Chocolate Bento Cake,19231,1002355,KIT042,Chocolate Bento Cake ( CF) — kit,1,Y,Y,OK
+52,Chocolate Berry Bento Cake,22698,1003127,KIT043,Chocolate Berry Bento Cake (CF) — kit,4,Y,Y,OK
+53,Chocolate Berry Cake,14327,1001524,KIT044,Chocolate Berry Mousse Cake — kit,13,Y,Y,OK
+54,Chocolate Chip Cake (500 gm),4361,1000019,KIT045,Chocolate Chip Cake(Cf) — kit,6,Y,Y,OK
+55,Chocolate Chip Pastry,4351,1000105,KIT046,Chocolate Chip Pastry(Cf) — kit,3,Y,Y,OK
+56,Chocolate Hazelnut Caramel Jar Cake,5718,1000354,KIT047,Chocolate Hazelnut Caramel Jar(Cf) — kit,2,Y,Y,OK
+57,Chocolate Jar Cake (180 ML),5720,1000122,KIT049,Chocolate Jar Cake(Cf) — kit,2,Y,Y,OK
+58,Chocolate Jar Cake (350 ml) (350 ML),11718,1000123,KIT048,Chocolate Jar Cake (350 Ml) (Cf) (350 ML) — kit,2,Y,Y,OK
+59,Chocolate Sugar Free Cake,23340,1003554,KIT052,Chocolate Sugar Free Cake (DR) — kit,4,Y,Y,OK
+60,Classic Walnut Brownie,4518,1000340,,,0,Y,Y,NO KIT
+61,Coconut Tres Leches,16376,1001938,KIT053,Coconut Tres Leches(Cf) — kit,8,Y,Y,OK
+62,Coffee Cup Cake,6011,1000313,KIT054,Coffee Cup Cake(Cf) — kit,3,Y,Y,OK
+63,Coffee Milk Chocolate Tub,25557,1004598,KIT055,Coffee Milk Chocolate Tub (DR) — kit,7,Y,Y,OK
+64,Coffee Mocha Brownie,14346,1002447,,,0,Y,Y,NO KIT
+65,Crunchy Biscuit Cheesecake Slice,4524,1000956,KIT056,Crunchy Biscuit Cheesecake Slice(Dr) — kit,1,Y,Y,OK
+66,Dark Chocolate Disc,15347,1004339,,,0,N,Y,NO KIT; NO L1
+67,Dense Loaf Tea Cake (300 gm),6013,1000501,KIT058,Dense Loaf Tea Cake(Pc) (300 GM) — kit,5,Y,Y,OK
+68,Double Choco Brownie,4520,1000988,,,0,Y,Y,NO KIT
+69,Doughnut (Pack of 6),25607,1004868,KIT059,Doughnut — kit,5,Y,Y,OK
+70,Dream Cake (500 gm),14807,1001624,KIT060,Dream Cake(Cf)  (500 GM) — kit,4,Y,Y,OK
+71,Dubai Kunafa Dream Cake,25537,1004579,KIT061,Dubai Kunafa Dream Cake (DR) — kit,14,Y,Y,OK
+72,Eggless Almond Chocolate Barks (100g),23638,1004233,KIT001,Almond Chocolate Caramel Bark(CF) — kit,5,Y,Y,OK
+73,Eggless Choco Praline Box (9 Pieces),23637,1004232,KIT075,Hazelnut Praline Sweets — kit,16,Y,Y,OK
+74,Eggless Kitkat Brownie,20136,1002459,KIT062,Eggless Kitkat Brownie — kit,3,Y,Y,OK
+75,Eggless Milk Chocolate Cake (500 gm),23046,1003515,KIT063,Eggless Milk Chocolate Cake (500gm) (CF) — kit,3,Y,Y,OK
+76,Father'S Day Chocolate Raspberry Cake (500 gm),16233,1001796,KIT064,Fathers Day Chocolate Raspberry Cake(Cf)  (500 GM) — kit,5,Y,Y,OK
+77,Ferrero Rocher Cake (500 gm),14808,1000084,KIT065,Ferrero Rocher Cake(Cf) (500 GM) — kit,3,Y,Y,OK
+78,Filter Coffee Verrine Cup,5763,1000960,KIT067,Filter Coffee Mousse — kit,5,Y,Y,OK
+79,Flower Shaped Dessert,52838,1007474,KIT068,Flower Shaped Dessert (DR) — kit,15,Y,Y,OK
+80,Fresh Fruit Cake (500 gm),4362,1000028,KIT069,Fresh Fruit Cake(Cf) (500 gm) — kit,10,Y,Y,OK
+81,Friendship day Special Cake (500 gm),16454,1002482,KIT070,Friendship Day Special Cake(Cf)  (500 GM) — kit,13,Y,Y,OK
+82,Fruit Nut And Cranberry Tea Cake (300 gm),13425,1000500,KIT071,Fruit Nut And Cranberry Tea Cake(Pc) (300 GM) — kit,9,Y,Y,OK
+83,German Black Forest Cake (500 gm),4363,1000030,KIT072,German Black Forest Cake (CF) (500 GM) — kit,6,Y,Y,OK
+84,German Black Forest Cake (New) (500 gm),4356,1000006,KIT018,Black Forest Cake(Cf) (500 gm) — kit,6,Y,Y,OK
+85,Gujiya Tart,29151,1006077,KIT073,Gujiya Tart (PC) — kit,7,Y,Y,OK
+86,Hazelnut Chocolate Cake (500 gm),16639,1002368,KIT074,Hazelnut Chocolate Cake(Cf)  (500 GM) — kit,11,Y,Y,OK
+87,Heart Shape Choco Strawberry Cake (450 gm),4366,1001143,KIT076,Heart Shaped Choco Strawberry — kit,10,Y,Y,OK
+88,Indian Fusion Eggless Fudge Box (9 Pieces),23639,1004234,KIT030,Cashew Caramel Bite — kit,30,Y,Y,OK
+89,Kaju Katli Dream Cake,25539,1004577,KIT077,Kaju Katli Dream Cake (DR) — kit,11,Y,Y,OK
+90,Kit Kat Pastry,4352,1000106,KIT078,Kit Kat Pastry(Cf) — kit,2,Y,Y,OK
+91,Kitkat Cupcake,20137,1002508,KIT079,Kitkat Cupcake — kit,3,Y,Y,OK
+92,Kunafa Tub,29525,1006123,KIT080,Kunafa Tub (DR) — kit,2,Y,Y,OK
+93,Lemon Cheesecake Verrine Cup,5762,1000951,KIT081,Lemon Cheese Verrine Cup(Lr) — kit,7,Y,Y,OK
+94,Mango Baked Cheesecake Slice,5769,1000039,KIT083,Mango Bake Cheese Pastry(Dr) — kit,4,Y,Y,OK
+95,Mango Cake (500 gm),4751,1000040,KIT084,Mango Cake(Cf) — kit,5,Y,Y,OK
+96,Mango Cheesecake (500 gm),22965,1003450,KIT085,Mango Cheesecake (DR) (600 GM) — kit,3,Y,Y,OK
+97,Mango Cheesecake Jar,22967,1003452,KIT086,Mango Cheesecake Jar(PC) — kit,8,Y,Y,OK
+98,Mango Chocolate Bento Cake,22971,1003456,KIT087,Mango Chocolate Bento Cake (CF) (500 GM) — kit,3,Y,Y,OK
+99,Mango Dark Chocolate Cake (500 gm),22970,1003455,KIT088,Mango Chocolate Cake (CF) (500 GM) — kit,3,Y,Y,OK
+100,Mango Dessert,32387,1006740,KIT089,Mango Dessert (DR) — kit,7,Y,Y,OK
+101,Mango Kunafa Jar Cake,5765,1000130,KIT090,Mango Kunafa Jar Cake(Cf) — kit,3,Y,Y,OK
+102,Mango Mousse Cake (500 gm),22966,1003451,KIT091,Mango Mousse Cake (DR) (500 GM) — kit,7,Y,Y,OK
+103,Mango Naked Cake (500 gm),22969,1003454,KIT092,Mango Naked Cake (CF) (500 gm) — kit,3,Y,Y,OK
+104,Mango Passion Fruit Bento Cake,23337,1003551,KIT093,Mango Passion Fruit Bento Cake (CF) — kit,2,Y,Y,OK
+105,Mango Pastry,4353,1000107,KIT094,Mango Pastry(Cf) — kit,4,Y,Y,OK
+106,Mango Tart,32391,1006742,KIT095,Mango Tart (DR) — kit,6,Y,Y,OK
+107,Mango Tres Leches (PCS),22968,1003453,KIT096,Mango Tres Leches (CF) — kit,7,Y,Y,OK
+108,Marble Cake (500 gm),4365,1000443,KIT097,Marble Cake(Cf) (500 gm) — kit,3,Y,Y,OK
+109,Marble Tea Cake (Eggless),6014,1000499,KIT098,Marble Tea Cake(Pc) ((EGGLESS)) — kit,3,Y,Y,OK
+110,Matcha missu Cheesecake Slice,25433,1004566,KIT100,Matcha missu Cheesecake Slice (DR) — kit,4,Y,Y,OK
+111,Matcha Missu Tub,25430,1004563,KIT099,Matcha Missu Tub (DR) — kit,5,Y,Y,OK
+112,Matka Rasmalai Cake,24793,1004333,KIT129,Rasmalai Cake(Cf) (500 gm) — kit,20,Y,Y,OK
+113,Message Chocolate Name Plate,12866,1002361,KIT102,Message Chocolate Name Plate(Cf) — kit,1,Y,Y,OK
+114,Milk Bread,28352,1005514,,,0,N,Y,NO KIT; NO L1
+115,Milk Chocolate & Motichoor Tres leches,25560,1004600,KIT103,Milk Chocolate & Motichoor Tres leches (DR) — kit,6,Y,Y,OK
+116,Milk Chocolate Bento Cake,23012,1003481,KIT104,Milk Chocolate Bento Cake (CF) — kit,2,Y,Y,OK
+117,Milk Chocolate Verrine Cup (No Added Sugar),52836,1007472,KIT105,Milk Chocolate Verrine Cup (No added Sugar) (DR) — kit,8,Y,Y,OK
+118,Milk Ganache (FC),25427,1004560,KIT082,MILK Chocolate Ganache — kit,4,Y,Y,OK
+119,Millionaire Brownie,4521,1000993,KIT106,Millionaire Brownie(Cf) — kit,1,Y,Y,OK
+120,Modak Set of 9,24798,1004337,KIT016,Biscoff Modak — kit,27,Y,Y,OK
+121,Motichoor Cheesecake Slice,25555,1004596,KIT107,Motichoor Cheesecake Slice (DR) — kit,3,Y,Y,OK
+122,Motichoor Tea Cake,25535,1004581,KIT108,Motichoor Tea Cake (PC) — kit,12,Y,Y,OK
+123,Muffin Chocolate,6033,1002204,KIT109,Muffin Chocolate(Pc) — kit,4,Y,Y,OK
+124,Muffin Red Velvet,6034,1002205,KIT110,Muffin Red Velvet(Pc) — kit,4,Y,Y,OK
+125,Muffin Vanilla,6032,1002206,KIT111,Muffin Vanilla(Pc) — kit,4,Y,Y,OK
+126,Multigrain Tea Cake (300 gm),6015,1000862,KIT112,Multigrain Tea Cake(Pc) (300 GM) — kit,4,Y,Y,OK
+127,Nutella Bake Cheesecake Slice,4525,1000963,,,0,N,Y,NO KIT; NO L1
+128,Nutella Brownie,4522,1000338,,,0,Y,Y,NO KIT
+129,Nutella Hazelnut Cake (500 gm(Reg),5627,1001118,KIT113,Nutella Hazelnut Cake (Dr) (500 Gm) — kit,11,Y,Y,OK
+130,Nutella Hazelnut Jar Cake,5757,1001193,KIT114,Nutella Hazelnut Jar Cake(Cf) — kit,7,Y,Y,OK
+131,Occasion special Disc,24720,1004313,,,0,N,Y,NO KIT; NO L1
+132,Occasions Bento Cake,22571,1003367,KIT116,Occasions Bento Cake (CF) — kit,5,Y,Y,OK
+133,Occasions Cup cakes Set of 4,24795,1004335,KIT024,Buttercream Cup cake — kit,4,Y,Y,OK
+134,Opera Cake (500 gm(Reg),4377,1002370,KIT117,Opera Cake(Dr)  (500 GM) — kit,6,Y,Y,OK
+135,Opera Pastry (-(Reg),5626,1000463,KIT118,Opera Pastry(Dr) — kit,6,Y,Y,OK
+136,Orange Bake Cheesecake Slice,4526,1000962,,,0,N,Y,NO KIT; NO L1
+137,Oreo Baked Cheesecake Slice,4527,1000918,KIT119,Oreo Bake Cheesecake Slice(Dr) — kit,1,Y,Y,OK
+138,Oreo Jar Cake (Pack of 6),5721,1000124,KIT136,Sponge-Chocolate — kit,4,Y,Y,OK
+139,Overloaded Choco Chip Cup Cake,6007,1002374,KIT120,Overloaded Choco Chip Cup Cake(Cf) — kit,1,Y,Y,OK
+140,Peri Peri sourdough Cracker (100gm),25302,1004396,,,0,Y,Y,NO KIT
+141,Pineapple Cake (500 gm),4367,1000044,KIT121,Pineapple Cake(Cf) (500 gm) — kit,4,Y,Y,OK
+142,Pineapple Pastry,4354,1000109,KIT122,Pineapple Pastry(Cf) — kit,5,Y,Y,OK
+143,Piping with Cream,12867,1002239,KIT123,Piping With Cream(Cf) — kit,1,Y,Y,OK
+144,Pista Tres Leches (Pcs),15387,1001755,KIT125,Pista Tres Leches(Dr) — kit,8,Y,Y,OK
+145,Plum Cake,14079,1002352,KIT126,Plum Cake 100 gm — kit,7,Y,Y,OK
+146,Plum Cake (800 gm),14240,1003178,KIT128,Plum Cake 800 gm — kit,7,Y,Y,OK
+147,Plum Cake 250 gm,14239,1002351,KIT127,Plum Cake 250 gm — kit,7,Y,Y,OK
+148,Rasmalai Cake (500 gm),15344,1000393,KIT129,Rasmalai Cake(Cf) (500 gm) — kit,15,Y,Y,OK
+149,Rasmalai Tres Leches,16375,1001939,KIT130,Rasmalai Tres Leches(Cf) — kit,11,Y,Y,OK
+150,Red Velvet Cake (500 gm),4368,1000087,,,0,Y,Y,NO KIT
+151,Red Velvet Crumb,12868,1002245,,,0,Y,Y,NO KIT
+152,Red Velvet Cup Cake,6009,1000311,,,0,Y,Y,NO KIT
+153,Red Velvet Jar Cake (180 ML),5723,1000126,,,0,Y,Y,NO KIT
+154,Red Velvet Jar Cake (350 ml) (350 ML),11719,1000127,KIT132,Red Velvet Jar Cake (350 ml) (CF) (350 ML) — kit,4,Y,Y,OK
+155,Red Velvet Pastry,4355,1000110,,,0,Y,Y,NO KIT
+156,Rose Tres Leches (Pcs),15386,1001754,KIT134,Rose Tres Leches(Dr) — kit,7,Y,Y,OK
+157,Round Dense Loaf Tea cake (300 gm),25190,1003185,KIT058,Dense Loaf Tea Cake(Pc) (300 GM) — kit,5,Y,Y,OK
+158,Set Of 2 Choco Chip Cream Cup Cake,19616,1002561,KIT024,Buttercream Cup cake — kit,4,Y,Y,OK
+159,Snicker Chocolate Cake (500 gm),4369,1000089,KIT135,Snicker Chocolate Cake(Cf)  (500 GM) — kit,4,Y,Y,OK
+160,Sourdough Bread,28355,1005517,,,0,N,Y,NO KIT; NO L1
+161,Stolen Bread,26869,1004965,KIT137,Stolen Bread (PC) — kit,11,Y,Y,OK
+162,Strawberry Bake Cheesecake Slice,14345,1002563,,,0,N,Y,NO KIT; NO L1
+163,Strawberry Bento Cake,25396,1004404,KIT138,Strawberry Bento cake (CF) — kit,4,Y,Y,OK
+164,Strawberry Cheese Verrine Cup (),14399,1002257,KIT139,Strawberry Cheese Verrine Cup(Lr) — kit,8,Y,Y,OK
+165,Strawberry Classic Cake (500 GM),14344,1001101,KIT140,Strawberry Classic Cake(Cf)  (500 GM) — kit,6,Y,Y,OK
+166,Strawberry Classic Pastry,15426,1003364,KIT146,Strawberry classic Pastry (CF) — kit,4,Y,Y,OK
+167,Strawberry Compote,13272,1001105,KIT141,Strawberry Compote(Cf) — kit,10,Y,Y,OK
+168,Strawberry Jar Cake,5725,1000128,KIT142,Strawberry Jar Cake(Cf) — kit,3,Y,Y,OK
+169,Strawberry Mini Dessert,26867,1004962,KIT143,Strawberry Mini Dessert (DR) — kit,6,Y,Y,OK
+170,Strawberry Pastry,14341,1001540,KIT144,Strawberry Pastry(Cf) — kit,1,Y,Y,OK
+171,Strawberry Velvet Cake (500 gm),14342,1001541,KIT145,Strawberry Velvet Cake(Cf) (500 GM) — kit,10,Y,Y,OK
+172,Thandai Cake (500 gm),15144,1001670,KIT148,Thandai Cake(Cf)  (500 GM) — kit,9,Y,Y,OK
+173,Tiramisu Cake (500 gm),4370,1000459,KIT149,Tiramisu Cake (Cf) (500 Gm) — kit,10,Y,Y,OK
+174,Tiramisu Party Tub,27532,1004987,KIT150,Tiramisu Party Tub (DR) — kit,9,Y,Y,OK
+175,Tiramisu Pastry Tub (Pcs),4758,1000462,KIT151,Tiramisu Pastry Tub (Cf) (PCS) — kit,10,Y,Y,OK
+176,Trio Cake (500 gm(Reg),4376,1000516,KIT152,Trio Cake(Dr) — kit,10,Y,Y,OK
+177,Trio Cupcake (-(Reg),5766,1000517,KIT153,Trio Cupcake(Dr) — kit,10,Y,Y,OK
+178,Vanilla Blueberry Cake (500 GM),4364,1002571,KIT155,Vanilla Blueberry Cake(Cf)  (500 GM) — kit,5,Y,Y,OK
+179,Vanilla Cup Cake,6008,1000314,KIT156,Vanilla Cup Cake(Cf) — kit,2,Y,Y,OK
+180,Veg Club Sandwich,13305,,,,0,N,N,NO KIT; NO L1; NO L2
+181,White Chocolate Disc,15348,1002360,,,0,N,Y,NO KIT; NO L1
+182,Whole Wheat Multigrain Bread,28353,1005515,,,0,N,Y,NO KIT; NO L1
+183,Yule Cake,20211,1002578,KIT157,Yule Cake — kit,7,Y,Y,OK
