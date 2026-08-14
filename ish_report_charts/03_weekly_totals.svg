@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+<defs><style>.t{font-family:Arial,sans-serif;font-size:16px;font-weight:bold;fill:#1a1a2e}.s{font-family:Arial,sans-serif;font-size:12px;fill:#555}.l{font-family:Arial,sans-serif;font-size:11px;fill:#333}.a{font-family:Arial,sans-serif;font-size:10px;fill:#666}.v{font-family:Arial,sans-serif;font-size:10px;font-weight:bold;fill:#1a1a2e}.g{stroke:#e0e0e0;stroke-width:0.5}</style></defs>
+<rect width="1000" height="500" fill="#fafafa"/>
+<text x="120" y="30" class="t">Weekly Volume Totals - ISH Week (Aug 8-14, 2026)</text>
+<text x="120" y="48" class="s">Aggregate comparison across all metrics</text>
+<rect x="120" y="74.4" width="557.9181570718318" height="43.199999999999996" fill="#2E86AB" opacity="0.85"/>
+<text x="685.9181570718318" y="100" class="v">35,428.6</text>
+<text x="112" y="100" text-anchor="end" class="a">Issuance (Kg)</text>
+<rect x="120" y="146.4" width="10.33992486108299" height="43.199999999999996" fill="#A23B72" opacity="0.85"/>
+<text x="138.33992486108298" y="172" class="v">656.6</text>
+<text x="112" y="172" text-anchor="end" class="a">Produced (Qty)</text>
+<rect x="120" y="218.4" width="630" height="43.199999999999996" fill="#F18F01" opacity="0.85"/>
+<text x="758" y="244" class="v">40,005.9</text>
+<text x="112" y="244" text-anchor="end" class="a">Dispatch (Qty)</text>
+<rect x="120" y="290.4" width="490.55904254122515" height="43.199999999999996" fill="#C73E1D" opacity="0.85"/>
+<text x="618.5590425412252" y="316" class="v">31,151.2</text>
+<text x="112" y="316" text-anchor="end" class="a">Wastage (Qty)</text>
+<rect x="120" y="362.4" width="562.4440395041731" height="43.199999999999996" fill="#6A994E" opacity="0.85"/>
+<text x="690.4440395041731" y="388" class="v">35,716</text>
+<text x="112" y="388" text-anchor="end" class="a">Prm Packing (Qty)</text>
+</svg>

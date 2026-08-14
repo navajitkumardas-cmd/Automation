@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ISH Weekly Report Visualizations — Aug 8-14, 2026</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f5f5f5; }
+  h1 { color: #1a1a2e; text-align: center; }
+  .sub { text-align: center; color: #555; margin-bottom: 30px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 20px; }
+  .card { background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 15px; overflow: hidden; }
+  .card h2 { font-size: 14px; margin: 0 0 10px 0; color: #333; }
+  .card svg { width: 100%; height: auto; border: 1px solid #eee; }
+  .note { background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 8px; padding: 15px; margin: 20px 0; color: #856404; }
+</style>
+</head>
+<body>
+<h1>ISH Weekly Report — Visual Dashboard</h1>
+<p class="sub">Week of Sat 2026-08-08 to Fri 2026-08-14 · Generated from pasted report data</p>
+
+<div class="note">
+  <strong>Key takeaways:</strong> Issuance dropped 58.4% while production rose 57.5% — an efficiency gain, but wastage climbed 8.8% to 31,151 units.
+  Line fill rate sits at 56% (7,468 lines short). Machine health is poor: 10 of 11 machines need attention, and
+  Friday production collapsed to just 14.7 units.
+</div>
+
+<div class="grid">
+  <div class="card"><h2>1 · Daily Production Overview</h2><object data="ish_report_charts/01_daily_production.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>2 · Wastage vs Issuance</h2><object data="ish_report_charts/02_wastage_vs_issuance.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>3 · Weekly Volume Totals</h2><object data="ish_report_charts/03_weekly_totals.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>4 · Machine Scans Per Day</h2><object data="ish_report_charts/04_machine_scans.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>5 · Machine Health Status</h2><object data="ish_report_charts/05_machine_health.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>6 · Outlet Orders & Fill Rate</h2><object data="ish_report_charts/06_outlet_orders_fill_rate.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>7 · Vendor Orders & Plans</h2><object data="ish_report_charts/07_vendor_plans.svg" type="image/svg+xml" width="100%"></object></div>
+  <div class="card"><h2>8 · Executive Dashboard</h2><object data="ish_report_charts/08_dashboard_summary.svg" type="image/svg+xml" width="100%"></object></div>
+</div>
+
+<p style="text-align:center;color:#999;font-size:12px;margin-top:30px;">
+  Charts generated as vector SVG from the pasted ISH weekly report. Open each .svg directly or view via this page.
+</p>
+</body>
+</html>

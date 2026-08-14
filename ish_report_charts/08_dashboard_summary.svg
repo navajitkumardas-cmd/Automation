@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+<defs><style>.t{font-family:Arial,sans-serif;font-size:16px;font-weight:bold;fill:#1a1a2e}.s{font-family:Arial,sans-serif;font-size:12px;fill:#555}.l{font-family:Arial,sans-serif;font-size:11px;fill:#333}.a{font-family:Arial,sans-serif;font-size:10px;fill:#666}.v{font-family:Arial,sans-serif;font-size:10px;font-weight:bold;fill:#1a1a2e}.g{stroke:#e0e0e0;stroke-width:0.5}</style></defs>
+<rect width="1200" height="900" fill="#fafafa"/>
+<text x="600" y="30" text-anchor="middle" class="t" font-size="18">ISH Weekly Report Dashboard - Aug 8-14, 2026</text>
+<text x="600" y="50" text-anchor="middle" class="s">Production | Machines | Orders | Vendors</text>
+<rect x="22.5" y="70" width="180" height="80" fill="#2E86AB" opacity="0.15" rx="5"/><rect x="22.5" y="70" width="180" height="4" fill="#2E86AB"/><text x="112.5" ..=".."><text x="112.5" y="95" text-anchor="middle" class="s" font-size="10">Issuance</text>
+<text x="112.5" y="118" text-anchor="middle" class="t" font-size="16">35,429 Kg</text>
+<text x="112.5" y="135" text-anchor="middle" class="a">-58.4%</text>
+<rect x="217.5" y="70" width="180" height="80" fill="#A23B72" opacity="0.15" rx="5"/><rect x="217.5" y="70" width="180" height="4" fill="#A23B72"/><text x="307.5" ..=".."><text x="307.5" y="95" text-anchor="middle" class="s" font-size="10">Produced</text>
+<text x="307.5" y="118" text-anchor="middle" class="t" font-size="16">656.6 Qty</text>
+<text x="307.5" y="135" text-anchor="middle" class="a">+57.5%</text>
+<rect x="412.5" y="70" width="180" height="80" fill="#F18F01" opacity="0.15" rx="5"/><rect x="412.5" y="70" width="180" height="4" fill="#F18F01"/><text x="502.5" ..=".."><text x="502.5" y="95" text-anchor="middle" class="s" font-size="10">Dispatch</text>
+<text x="502.5" y="118" text-anchor="middle" class="t" font-size="16">40,006 Qty</text>
+<text x="502.5" y="135" text-anchor="middle" class="a">+3.9%</text>
+<rect x="607.5" y="70" width="180" height="80" fill="#C73E1D" opacity="0.15" rx="5"/><rect x="607.5" y="70" width="180" height="4" fill="#C73E1D"/><text x="697.5" ..=".."><text x="697.5" y="95" text-anchor="middle" class="s" font-size="10">Wastage</text>
+<text x="697.5" y="118" text-anchor="middle" class="t" font-size="16">31,151 Qty</text>
+<text x="697.5" y="135" text-anchor="middle" class="a">+8.8%</text>
+<rect x="802.5" y="70" width="180" height="80" fill="#E9C46A" opacity="0.15" rx="5"/><rect x="802.5" y="70" width="180" height="4" fill="#E9C46A"/><text x="892.5" ..=".."><text x="892.5" y="95" text-anchor="middle" class="s" font-size="10">Line Fill</text>
+<text x="892.5" y="118" text-anchor="middle" class="t" font-size="16">56.0%</text>
+<text x="892.5" y="135" text-anchor="middle" class="a">9,512/16,980</text>
+<rect x="997.5" y="70" width="180" height="80" fill="#E76F51" opacity="0.15" rx="5"/><rect x="997.5" y="70" width="180" height="4" fill="#E76F51"/><text x="1087.5" ..=".."><text x="1087.5" y="95" text-anchor="middle" class="s" font-size="10">Machines</text>
+<text x="1087.5" y="118" text-anchor="middle" class="t" font-size="16">7 Active</text>
+<text x="1087.5" y="135" text-anchor="middle" class="a">10 need attn</text>
+<rect x="30" y="180" width="560" height="280" fill="white" stroke="#ddd" rx="5"/><text x="40" y="198" class="s" font-weight="bold">Daily Production Flow</text>
+<line x1="90" y1="200" x2="530" y2="200" class="g"/>
+<line x1="90" y1="255" x2="530" y2="255" class="g"/>
+<line x1="90" y1="310" x2="530" y2="310" class="g"/>
+<line x1="90" y1="365" x2="530" y2="365" class="g"/>
+<line x1="90" y1="420" x2="530" y2="420" class="g"/>
+<line x1="90" y1="200" x2="90" y2="420" class="g"/>
+<line x1="163.33333333333331" y1="200" x2="163.33333333333331" y2="420" class="g"/>
+<line x1="236.66666666666666" y1="200" x2="236.66666666666666" y2="420" class="g"/>
+<line x1="310" y1="200" x2="310" y2="420" class="g"/>
+<line x1="383.3333333333333" y1="200" x2="383.3333333333333" y2="420" class="g"/>
+<line x1="456.66666666666663" y1="200" x2="456.66666666666663" y2="420" class="g"/>
+<line x1="530" y1="200" x2="530" y2="420" class="g"/>
+<text x="82" y="204" text-anchor="end" class="a" font-size="9">8351</text>
+<text x="82" y="259" text-anchor="end" class="a" font-size="9">6263</text>
+<text x="82" y="314" text-anchor="end" class="a" font-size="9">4176</text>
+<text x="82" y="369" text-anchor="end" class="a" font-size="9">2088</text>
+<text x="82" y="424" text-anchor="end" class="a" font-size="9">0</text>
+<rect x="88" y="300.0514889897381" width="15.714285714285714" height="119.94851101026188" fill="#2E86AB" opacity="0.8"/>
+<rect x="105.71428571428572" y="283.67128471016485" width="15.714285714285714" height="136.32871528983512" fill="#F18F01" opacity="0.8"/>
+<rect x="121.42857142857143" y="190.81412474704535" width="15.714285714285714" height="229.18587525295465" fill="#A23B72" opacity="0.8"/>
+<rect x="139.14285714285714" y="255.40502676230045" width="15.714285714285714" height="164.59497323769955" fill="#C73E1D" opacity="0.8"/>
+<text x="121.42857142857143" y="435" text-anchor="middle" class="a" font-size="9">Sat</text>
+<rect x="150.85714285714286" y="289.69334115646666" width="15.714285714285714" height="130.30665884353337" fill="#2E86AB" opacity="0.8"/>
+<rect x="168.57142857142856" y="261.2900985475315" width="15.714285714285714" height="158.7099014524685" fill="#F18F01" opacity="0.8"/>
+<rect x="184.28571428571428" y="55.936920000479006" width="15.714285714285714" height="364.063079999521" fill="#A23B72" opacity="0.8"/>
+<rect x="202" y="313.0544945098368" width="15.714285714285714" height="106.94550549016321" fill="#C73E1D" opacity="0.8"/>
+<text x="184.28571428571428" y="435" text-anchor="middle" class="a" font-size="9">Sun</text>
+<rect x="213.71428571428572" y="258.1921377510088" width="15.714285714285714" height="161.8078622489912" fill="#2E86AB" opacity="0.8"/>
+<rect x="231.42857142857142" y="280.6628908074192" width="15.714285714285714" height="139.3371091925808" fill="#F18F01" opacity="0.8"/>
+<rect x="247.14285714285714" y="407.0918300144888" width="15.714285714285714" height="12.908169985511242" fill="#A23B72" opacity="0.8"/>
+<rect x="264.85714285714283" y="233.69032366218434" width="15.714285714285714" height="186.30967633781566" fill="#C73E1D" opacity="0.8"/>
+<text x="247.14285714285714" y="435" text-anchor="middle" class="a" font-size="9">Mon</text>
+<rect x="276.57142857142856" y="285.0859147677607" width="15.714285714285714" height="134.9140852322393" fill="#2E86AB" opacity="0.8"/>
+<rect x="294.2857142857143" y="254.9334834097685" width="15.714285714285714" height="165.0665165902315" fill="#F18F01" opacity="0.8"/>
+<rect x="310" y="142.07919725072742" width="15.714285714285714" height="277.9208027492726" fill="#A23B72" opacity="0.8"/>
+<text x="310" y="435" text-anchor="middle" class="a" font-size="9">Tue</text>
+<rect x="339.42857142857144" y="296.24753032462013" width="15.714285714285714" height="123.75246967537988" fill="#2E86AB" opacity="0.8"/>
+<rect x="357.14285714285717" y="270.7077939961443" width="15.714285714285714" height="149.2922060038557" fill="#F18F01" opacity="0.8"/>
+<rect x="372.8571428571429" y="259.3064552824111" width="15.714285714285714" height="160.6935447175889" fill="#A23B72" opacity="0.8"/>
+<rect x="390.5714285714286" y="165.37449259396737" width="15.714285714285714" height="254.62550740603263" fill="#C73E1D" opacity="0.8"/>
+<text x="372.8571428571429" y="435" text-anchor="middle" class="a" font-size="9">Wed</text>
+<rect x="402.2857142857143" y="200" width="15.714285714285714" height="220" fill="#2E86AB" opacity="0.8"/>
+<rect x="420" y="265.6209212936908" width="15.714285714285714" height="154.37907870630923" fill="#F18F01" opacity="0.8"/>
+<rect x="435.7142857142857" y="-226.46222743764451" width="15.714285714285714" height="646.4622274376445" fill="#A23B72" opacity="0.8"/>
+<rect x="453.42857142857144" y="311.8532444050627" width="15.714285714285714" height="108.14675559493733" fill="#C73E1D" opacity="0.8"/>
+<text x="435.7142857142857" y="435" text-anchor="middle" class="a" font-size="9">Thu</text>
+<rect x="465.1428571428571" y="377.4267479314598" width="15.714285714285714" height="42.57325206854023" fill="#2E86AB" opacity="0.8"/>
+<rect x="482.85714285714283" y="269.2299402488235" width="15.714285714285714" height="150.7700597511765" fill="#F18F01" opacity="0.8"/>
+<rect x="498.57142857142856" y="381.2754900434663" width="15.714285714285714" height="38.724509956533716" fill="#A23B72" opacity="0.8"/>
+<text x="498.57142857142856" y="435" text-anchor="middle" class="a" font-size="9">Fri</text>
+<rect x="40" y="448" width="10" height="10" fill="#2E86AB" opacity="0.8"/><text x="54" y="457" class="a" font-size="9">Issuance</text>
+<rect x="130" y="448" width="10" height="10" fill="#F18F01" opacity="0.8"/><text x="144" y="457" class="a" font-size="9">Dispatch</text>
+<rect x="230" y="448" width="10" height="10" fill="#A23B72" opacity="0.8"/><text x="244" y="457" class="a" font-size="9">Produced</text></text>
+<rect x="610" y="180" width="560" height="280" fill="white" stroke="#ddd" rx="5"/><text x="620" y="198" class="s" font-weight="bold">Machine Scans Trend</text>
+<line x1="670" y1="200" x2="1110" y2="200" class="g"/>
+<line x1="670" y1="255" x2="1110" y2="255" class="g"/>
+<line x1="670" y1="310" x2="1110" y2="310" class="g"/>
+<line x1="670" y1="365" x2="1110" y2="365" class="g"/>
+<line x1="670" y1="420" x2="1110" y2="420" class="g"/>
+<line x1="670" y1="200" x2="670" y2="420" class="g"/>
+<line x1="743.3333333333334" y1="200" x2="743.3333333333334" y2="420" class="g"/>
+<line x1="816.6666666666666" y1="200" x2="816.6666666666666" y2="420" class="g"/>
+<line x1="890" y1="200" x2="890" y2="420" class="g"/>
+<line x1="963.3333333333333" y1="200" x2="963.3333333333333" y2="420" class="g"/>
+<line x1="1036.6666666666665" y1="200" x2="1036.6666666666665" y2="420" class="g"/>
+<line x1="1110" y1="200" x2="1110" y2="420" class="g"/>
+<path d="M 670 210.50177619893427 L 743.3333333333334 202.6865008880995 L 816.6666666666666 208.10834813499113 L 890 205.8126110124334 L 963.3333333333333 200 L 1036.6666666666665 208.40142095914743 L 1110 268.4325044404973 " fill="none" stroke="#3B1F2B" stroke-width="2.5"/>
+<circle cx="670" cy="210.50177619893427" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/><text x="670" y="198.50177619893427" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,289</text>
+<text x="670" y="435" text-anchor="middle" class="a" font-size="9">Sat</text>
+<circle cx="743.3333333333334" cy="202.6865008880995" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/><text x="743.3333333333334" y="190.6865008880995" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,449</text>
+<text x="743.3333333333334" y="435" text-anchor="middle" class="a" font-size="9">Sun</text>
+<circle cx="816.6666666666666" cy="208.10834813499113" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/><text x="816.6666666666666" y="196.10834813499113" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,338</text>
+<text x="816.6666666666666" y="435" text-anchor="middle" class="a" font-size="9">Mon</text>
+<circle cx="890" cy="205.8126110124334" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/><text x="890" y="193.8126110124334" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,385</text>
+<text x="890" y="435" text-anchor="middle" class="a" font-size="9">Tue</text>
+<circle cx="963.3333333333333" cy="200" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/><text x="963.3333333333333" y="188" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,504</text>
+<text x="963.3333333333333" y="435" text-anchor="middle" class="a" font-size="9">Wed</text>
+<circle cx="1036.6666666666665" cy="208.40142095914743" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/><text x="1036.6666666666665" y="196.40142095914743" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,332</text>
+<text x="1036.6666666666665" y="435" text-anchor="middle" class="a" font-size="9">Thu</text>
+<circle cx="1110" cy="268.4325044404973" r="6" fill="#E76F51" stroke="white" stroke-width="2"/><text x="1110" y="256.4325044404973" text-anchor="middle" class="v" font-size="9" fill="#E76F51">3,103</text>
+<text x="1110" y="435" text-anchor="middle" class="a" font-size="9">Fri</text>
+<rect x="30" y="480" width="560" height="240" fill="white" stroke="#ddd" rx="5"/><text x="40" y="498" class="s" font-weight="bold">Machine Health Summary</text>
+<rect x="60" y="530" width="45.45454545454545" height="30" fill="#2A9D8F" opacity="0.85" rx="3"/><text x="82.72727272727272" y="550" text-anchor="middle" class="v" font-size="11">Healthy (1)</text>
+<rect x="110.45454545454545" y="530" width="90.9090909090909" height="30" fill="#E9C46A" opacity="0.85" rx="3"/><text x="155.9090909090909" y="550" text-anchor="middle" class="v" font-size="11">High Latency (2)</text>
+<rect x="206.36363636363637" y="530" width="136.36363636363635" height="30" fill="#E76F51" opacity="0.85" rx="3"/><text x="274.54545454545456" y="550" text-anchor="middle" class="v" font-size="11">Offline (3)</text>
+<rect x="347.72727272727275" y="530" width="90.9090909090909" height="30" fill="#9B2226" opacity="0.85" rx="3"/><text x="393.1818181818182" y="550" text-anchor="middle" class="v" font-size="11">Offline+Latency (2)</text>
+<rect x="443.6363636363636" y="530" width="136.36363636363635" height="30" fill="#8D99AE" opacity="0.85" rx="3"/><text x="511.8181818181818" y="550" text-anchor="middle" class="v" font-size="11">Idle (3)</text>
+<text x="40" y="705" class="a">11 machines: 7 active | 4 idle | 10 need attention</text>
+<rect x="610" y="480" width="560" height="240" fill="white" stroke="#ddd" rx="5"/><text x="620" y="498" class="s" font-weight="bold">Key Metrics</text>
+<text x="630" y="540" class="l">Line Fill Rate: 56.0% (9,512 / 16,980 full)</text>
+<text x="630" y="570" class="l">Outlet Orders: 3,629 across 50 outlets</text>
+<text x="630" y="600" class="l">Vendor Orders: 128 (Rs 2.92 Cr), 300 lines short</text>
+<text x="630" y="630" class="l">Production Plans: 29 created, 288 items</text>
+<text x="630" y="660" class="l">Wastage: 31,151 Qty (8.8% above last week)</text>
+<text x="630" y="690" class="l">Friday: production collapse (14.7 units)</text>
+</svg>

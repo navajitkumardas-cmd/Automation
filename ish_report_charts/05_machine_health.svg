@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="1000" height="650">
+<defs><style>.t{font-family:Arial,sans-serif;font-size:16px;font-weight:bold;fill:#1a1a2e}.s{font-family:Arial,sans-serif;font-size:12px;fill:#555}.l{font-family:Arial,sans-serif;font-size:11px;fill:#333}.a{font-family:Arial,sans-serif;font-size:10px;fill:#666}.v{font-family:Arial,sans-serif;font-size:10px;font-weight:bold;fill:#1a1a2e}.g{stroke:#e0e0e0;stroke-width:0.5}</style></defs>
+<rect width="1000" height="650" fill="#fafafa"/>
+<text x="180" y="30" class="t">Machine Activity & Health Status - ISH Week</text>
+<text x="180" y="48" class="s">11 registered | 7 active | 10 need attention</text>
+<line x1="180" y1="60" x2="750" y2="60" class="g"/>
+<line x1="180" y1="115" x2="750" y2="115" class="g"/>
+<line x1="180" y1="170" x2="750" y2="170" class="g"/>
+<line x1="180" y1="225" x2="750" y2="225" class="g"/>
+<line x1="180" y1="280" x2="750" y2="280" class="g"/>
+<line x1="180" y1="335" x2="750" y2="335" class="g"/>
+<line x1="180" y1="390" x2="750" y2="390" class="g"/>
+<line x1="180" y1="445" x2="750" y2="445" class="g"/>
+<line x1="180" y1="500" x2="750" y2="500" class="g"/>
+<line x1="180" y1="555" x2="750" y2="555" class="g"/>
+<line x1="180" y1="610" x2="750" y2="610" class="g"/>
+<line x1="180" y1="60" x2="180" y2="610" class="g"/>
+<line x1="322.5" y1="60" x2="322.5" y2="610" class="g"/>
+<line x1="465" y1="60" x2="465" y2="610" class="g"/>
+<line x1="607.5" y1="60" x2="607.5" y2="610" class="g"/>
+<line x1="750" y1="60" x2="750" y2="610" class="g"/>
+<rect x="180" y="67.5" width="570" height="35" fill="#E9C46A" opacity="0.85"/>
+<text x="172" y="89" text-anchor="end" class="a">Savoury-WIS</text>
+<text x="758" y="89" class="v">8,344</text>
+<text x="850" y="89" class="a" font-weight="bold" fill="#E9C46A">High latency</text>
+<rect x="180" y="117.5" width="349.8969319271333" height="35" fill="#E9C46A" opacity="0.85"/>
+<text x="172" y="139" text-anchor="end" class="a">Kaju-KIS</text>
+<text x="537.8969319271333" y="139" class="v">5,122</text>
+<text x="629.8969319271333" y="139" class="a" font-weight="bold" fill="#E9C46A">High latency</text>
+<rect x="180" y="167.5" width="271.47411313518694" height="35" fill="#E76F51" opacity="0.85"/>
+<text x="172" y="189" text-anchor="end" class="a">Barfi-KIS</text>
+<text x="459.47411313518694" y="189" class="v">3,974</text>
+<text x="551.4741131351869" y="189" class="a" font-weight="bold" fill="#E76F51">Offline</text>
+<rect x="180" y="217.5" width="270.1761744966443" height="35" fill="#2A9D8F" opacity="0.85"/>
+<text x="172" y="239" text-anchor="end" class="a">Chaats SFG</text>
+<text x="458.1761744966443" y="239" class="v">3,955</text>
+<text x="550.1761744966443" y="239" class="a" font-weight="bold" fill="#2A9D8F">ok</text>
+<rect x="180" y="267.5" width="198.99448705656758" height="35" fill="#9B2226" opacity="0.85"/>
+<text x="172" y="289" text-anchor="end" class="a">Sweet SFG</text>
+<text x="386.99448705656755" y="289" class="v">2,913</text>
+<text x="478.99448705656755" y="289" class="a" font-weight="bold" fill="#9B2226">Offline+High latency</text>
+<rect x="180" y="317.5" width="187.24472674976033" height="35" fill="#E76F51" opacity="0.85"/>
+<text x="172" y="339" text-anchor="end" class="a">Premium-KIS</text>
+<text x="375.24472674976033" y="339" class="v">2,741</text>
+<text x="467.24472674976033" y="339" class="a" font-weight="bold" fill="#E76F51">Offline</text>
+<rect x="180" y="367.5" width="160.602828379674" height="35" fill="#9B2226" opacity="0.85"/>
+<text x="172" y="389" text-anchor="end" class="a">Bengali-WIS</text>
+<text x="348.602828379674" y="389" class="v">2,351</text>
+<text x="440.602828379674" y="389" class="a" font-weight="bold" fill="#9B2226">Offline+High latency</text>
+<rect x="180" y="417.5" width="5" height="35" fill="#8D99AE" opacity="0.85"/>
+<text x="172" y="439" text-anchor="end" class="a">Packaging-KIS</text>
+<text x="285" y="439" class="a" font-weight="bold" fill="#8D99AE">idle</text>
+<rect x="180" y="467.5" width="5" height="35" fill="#8D99AE" opacity="0.85"/>
+<text x="172" y="489" text-anchor="end" class="a">test</text>
+<text x="285" y="489" class="a" font-weight="bold" fill="#8D99AE">idle</text>
+<rect x="180" y="517.5" width="5" height="35" fill="#8D99AE" opacity="0.85"/>
+<text x="172" y="539" text-anchor="end" class="a">Warehouse KIT</text>
+<text x="285" y="539" class="a" font-weight="bold" fill="#8D99AE">idle</text>
+<rect x="180" y="567.5" width="5" height="35" fill="#8D99AE" opacity="0.85"/>
+<text x="172" y="589" text-anchor="end" class="a">demo</text>
+<text x="285" y="589" class="a" font-weight="bold" fill="#8D99AE">idle</text>
+<rect x="180" y="625" width="12" height="12" fill="#2A9D8F" opacity="0.85"/><text x="196" y="635" class="a">Healthy</text>
+<rect x="320" y="625" width="12" height="12" fill="#E9C46A" opacity="0.85"/><text x="336" y="635" class="a">High Latency</text>
+<rect x="460" y="625" width="12" height="12" fill="#E76F51" opacity="0.85"/><text x="476" y="635" class="a">Offline</text>
+<rect x="600" y="625" width="12" height="12" fill="#9B2226" opacity="0.85"/><text x="616" y="635" class="a">Offline+Latency</text>
+<rect x="740" y="625" width="12" height="12" fill="#8D99AE" opacity="0.85"/><text x="756" y="635" class="a">Idle</text>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+<defs><style>.t{font-family:Arial,sans-serif;font-size:16px;font-weight:bold;fill:#1a1a2e}.s{font-family:Arial,sans-serif;font-size:12px;fill:#555}.l{font-family:Arial,sans-serif;font-size:11px;fill:#333}.a{font-family:Arial,sans-serif;font-size:10px;fill:#666}.v{font-family:Arial,sans-serif;font-size:10px;font-weight:bold;fill:#1a1a2e}.g{stroke:#e0e0e0;stroke-width:0.5}</style></defs>
+<rect width="1000" height="500" fill="#fafafa"/>
+<text x="80" y="30" class="t">Daily Production Overview - ISH Week (Aug 8-14, 2026)</text>
+<text x="80" y="48" class="s">Issuance, Produced, Dispatch by day</text>
+<line x1="80" y1="60" x2="920" y2="60" class="g"/>
+<line x1="80" y1="136" x2="920" y2="136" class="g"/>
+<line x1="80" y1="212" x2="920" y2="212" class="g"/>
+<line x1="80" y1="288" x2="920" y2="288" class="g"/>
+<line x1="80" y1="364" x2="920" y2="364" class="g"/>
+<line x1="80" y1="440" x2="920" y2="440" class="g"/>
+<line x1="80" y1="60" x2="80" y2="440" class="g"/>
+<line x1="220" y1="60" x2="220" y2="440" class="g"/>
+<line x1="360" y1="60" x2="360" y2="440" class="g"/>
+<line x1="500" y1="60" x2="500" y2="440" class="g"/>
+<line x1="640" y1="60" x2="640" y2="440" class="g"/>
+<line x1="780" y1="60" x2="780" y2="440" class="g"/>
+<line x1="920" y1="60" x2="920" y2="440" class="g"/>
+<text x="70" y="64" text-anchor="end" class="a">8351</text>
+<text x="70" y="140" text-anchor="end" class="a">6681</text>
+<text x="70" y="216" text-anchor="end" class="a">5011</text>
+<text x="70" y="292" text-anchor="end" class="a">3341</text>
+<text x="70" y="368" text-anchor="end" class="a">1670</text>
+<text x="70" y="444" text-anchor="end" class="a">0</text>
+<rect x="90" y="232.8162082550022" width="24" height="207.1837917449978" fill="#2E86AB" opacity="0.85"/>
+<text x="102" y="227.8162082550022" text-anchor="middle" class="v" font-size="8">4553</text>
+<rect x="115" y="44.133488199441956" width="24" height="395.86651180055804" fill="#A23B72" opacity="0.85"/>
+<rect x="141" y="204.52312813573934" width="24" height="235.47687186426066" fill="#F18F01" opacity="0.85"/>
+<rect x="166" y="155.69959168033716" width="24" height="284.30040831966284" fill="#C73E1D" opacity="0.85"/>
+<text x="140" y="460" text-anchor="middle" class="a">Sat 08-08</text>
+<rect x="210" y="214.92486199753327" width="24" height="225.07513800246673" fill="#2E86AB" opacity="0.85"/>
+<text x="222" y="209.92486199753327" text-anchor="middle" class="v" font-size="8">4947</text>
+<rect x="235" y="-188.8362290900817" width="24" height="628.8362290900817" fill="#A23B72" opacity="0.85"/>
+<rect x="261" y="165.86471567300896" width="24" height="274.13528432699104" fill="#F18F01" opacity="0.85"/>
+<rect x="286" y="255.27594506244537" width="24" height="184.72405493755463" fill="#C73E1D" opacity="0.85"/>
+<text x="260" y="460" text-anchor="middle" class="a">Sun 08-09</text>
+<rect x="330" y="160.51369247901522" width="24" height="279.4863075209848" fill="#2E86AB" opacity="0.85"/>
+<text x="342" y="155.51369247901522" text-anchor="middle" class="v" font-size="8">6142</text>
+<rect x="355" y="417.70407002502606" width="24" height="22.295929974973962" fill="#A23B72" opacity="0.85"/>
+<rect x="381" y="199.32681139463313" width="24" height="240.67318860536687" fill="#F18F01" opacity="0.85"/>
+<rect x="406" y="118.19237723468206" width="24" height="321.80762276531794" fill="#C73E1D" opacity="0.85"/>
+<text x="380" y="460" text-anchor="middle" class="a">Mon 08-10</text>
+<rect x="450" y="206.96658005340484" width="24" height="233.03341994659516" fill="#2E86AB" opacity="0.85"/>
+<text x="462" y="201.96658005340484" text-anchor="middle" class="v" font-size="8">5121</text>
+<rect x="475" y="-40.04502293056174" width="24" height="480.04502293056174" fill="#A23B72" opacity="0.85"/>
+<rect x="501" y="154.88510770778197" width="24" height="285.11489229221803" fill="#F18F01" opacity="0.85"/>
+<text x="500" y="460" text-anchor="middle" class="a">Tue 08-11</text>
+<rect x="570" y="226.24573419707113" width="24" height="213.75426580292887" fill="#2E86AB" opacity="0.85"/>
+<text x="582" y="221.24573419707113" text-anchor="middle" class="v" font-size="8">4698</text>
+<rect x="595" y="162.43842276052828" width="24" height="277.5615772394717" fill="#A23B72" opacity="0.85"/>
+<rect x="621" y="182.13164417515833" width="24" height="257.8683558248417" fill="#F18F01" opacity="0.85"/>
+<rect x="646" y="0.19230538958004217" width="24" height="439.80769461041996" fill="#C73E1D" opacity="0.85"/>
+<text x="620" y="460" text-anchor="middle" class="a">Wed 08-12</text>
+<rect x="690" y="60" width="24" height="380" fill="#2E86AB" opacity="0.85"/>
+<text x="702" y="55" text-anchor="middle" class="v" font-size="8">8351</text>
+<rect x="715" y="-676.6165746650222" width="24" height="1116.6165746650222" fill="#A23B72" opacity="0.85"/>
+<rect x="741" y="173.34522768910222" width="24" height="266.6547723108978" fill="#F18F01" opacity="0.85"/>
+<rect x="766" y="253.20105851783552" width="24" height="186.79894148216448" fill="#C73E1D" opacity="0.85"/>
+<text x="740" y="460" text-anchor="middle" class="a">Thu 08-13</text>
+<rect x="810" y="366.4643827907032" width="24" height="73.53561720929676" fill="#2E86AB" opacity="0.85"/>
+<text x="822" y="361.4643827907032" text-anchor="middle" class="v" font-size="8">1616</text>
+<rect x="835" y="373.1122100750781" width="24" height="66.88778992492188" fill="#A23B72" opacity="0.85"/>
+<rect x="861" y="179.57898770251336" width="24" height="260.42101229748664" fill="#F18F01" opacity="0.85"/>
+<text x="860" y="460" text-anchor="middle" class="a">Fri 08-14</text>
+<rect x="80" y="475" width="12" height="12" fill="#2E86AB" opacity="0.85"/>
+<text x="96" y="485" class="a">Issuance (Kg)</text>
+<rect x="230" y="475" width="12" height="12" fill="#A23B72" opacity="0.85"/>
+<text x="246" y="485" class="a">Produced (Qty)</text>
+<rect x="380" y="475" width="12" height="12" fill="#F18F01" opacity="0.85"/>
+<text x="396" y="485" class="a">Dispatch (Qty)</text>
+<rect x="530" y="475" width="12" height="12" fill="#C73E1D" opacity="0.85"/>
+<text x="546" y="485" class="a">Wastage (Qty)</text>
+</svg>

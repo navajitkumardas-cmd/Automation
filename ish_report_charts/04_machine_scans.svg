@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" width="1000" height="450">
+<defs><style>.t{font-family:Arial,sans-serif;font-size:16px;font-weight:bold;fill:#1a1a2e}.s{font-family:Arial,sans-serif;font-size:12px;fill:#555}.l{font-family:Arial,sans-serif;font-size:11px;fill:#333}.a{font-family:Arial,sans-serif;font-size:10px;fill:#666}.v{font-family:Arial,sans-serif;font-size:10px;font-weight:bold;fill:#1a1a2e}.g{stroke:#e0e0e0;stroke-width:0.5}</style></defs>
+<rect width="1000" height="450" fill="#fafafa"/>
+<text x="80" y="30" class="t">Machine Scans Per Day - ISH Week (Aug 8-14, 2026)</text>
+<text x="80" y="48" class="s">Total: 29,400 scans | 7 machines | 7 active days</text>
+<line x1="80" y1="60" x2="920" y2="60" class="g"/>
+<line x1="80" y1="126" x2="920" y2="126" class="g"/>
+<line x1="80" y1="192" x2="920" y2="192" class="g"/>
+<line x1="80" y1="258" x2="920" y2="258" class="g"/>
+<line x1="80" y1="324" x2="920" y2="324" class="g"/>
+<line x1="80" y1="390" x2="920" y2="390" class="g"/>
+<line x1="80" y1="60" x2="80" y2="390" class="g"/>
+<line x1="220" y1="60" x2="220" y2="390" class="g"/>
+<line x1="360" y1="60" x2="360" y2="390" class="g"/>
+<line x1="500" y1="60" x2="500" y2="390" class="g"/>
+<line x1="640" y1="60" x2="640" y2="390" class="g"/>
+<line x1="780" y1="60" x2="780" y2="390" class="g"/>
+<line x1="920" y1="60" x2="920" y2="390" class="g"/>
+<text x="70" y="64" text-anchor="end" class="a">4504</text>
+<text x="70" y="130" text-anchor="end" class="a">3603</text>
+<text x="70" y="196" text-anchor="end" class="a">2702</text>
+<text x="70" y="262" text-anchor="end" class="a">1802</text>
+<text x="70" y="328" text-anchor="end" class="a">901</text>
+<text x="70" y="394" text-anchor="end" class="a">0</text>
+<path d="M 80 390 L 80 75.75266429840144 L 220 64.0297513321492 L 360 72.16252220248668 L 500 68.71891651865008 L 640 60 L 780 72.60213143872113 L 920 162.648756660746 L 920 390 Z" fill="#3B1F2B" opacity="0.15"/>
+<path d="M 80 75.75266429840144 L 220 64.0297513321492 L 360 72.16252220248668 L 500 68.71891651865008 L 640 60 L 780 72.60213143872113 L 920 162.648756660746 " fill="none" stroke="#3B1F2B" stroke-width="2.5"/>
+<line x1="80" y1="390" x2="80" y2="75.75266429840144" stroke="#3B1F2B" stroke-width="1" opacity="0.3"/>
+<circle cx="80" cy="75.75266429840144" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/>
+<text x="80" y="63.75266429840144" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,289</text>
+<text x="80" y="410" text-anchor="middle" class="a">Sat 08-08</text>
+<line x1="220" y1="390" x2="220" y2="64.0297513321492" stroke="#3B1F2B" stroke-width="1" opacity="0.3"/>
+<circle cx="220" cy="64.0297513321492" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/>
+<text x="220" y="52.0297513321492" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,449</text>
+<text x="220" y="410" text-anchor="middle" class="a">Sun 08-09</text>
+<line x1="360" y1="390" x2="360" y2="72.16252220248668" stroke="#3B1F2B" stroke-width="1" opacity="0.3"/>
+<circle cx="360" cy="72.16252220248668" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/>
+<text x="360" y="60.162522202486684" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,338</text>
+<text x="360" y="410" text-anchor="middle" class="a">Mon 08-10</text>
+<line x1="500" y1="390" x2="500" y2="68.71891651865008" stroke="#3B1F2B" stroke-width="1" opacity="0.3"/>
+<circle cx="500" cy="68.71891651865008" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/>
+<text x="500" y="56.718916518650076" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,385</text>
+<text x="500" y="410" text-anchor="middle" class="a">Tue 08-11</text>
+<line x1="640" y1="390" x2="640" y2="60" stroke="#3B1F2B" stroke-width="1" opacity="0.3"/>
+<circle cx="640" cy="60" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/>
+<text x="640" y="48" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,504</text>
+<text x="640" y="410" text-anchor="middle" class="a">Wed 08-12</text>
+<line x1="780" y1="390" x2="780" y2="72.60213143872113" stroke="#3B1F2B" stroke-width="1" opacity="0.3"/>
+<circle cx="780" cy="72.60213143872113" r="6" fill="#3B1F2B" stroke="white" stroke-width="2"/>
+<text x="780" y="60.60213143872113" text-anchor="middle" class="v" font-size="9" fill="#3B1F2B">4,332</text>
+<text x="780" y="410" text-anchor="middle" class="a">Thu 08-13</text>
+<line x1="920" y1="390" x2="920" y2="162.648756660746" stroke="#E76F51" stroke-width="1" opacity="0.3"/>
+<circle cx="920" cy="162.648756660746" r="6" fill="#E76F51" stroke="white" stroke-width="2"/>
+<text x="920" y="150.648756660746" text-anchor="middle" class="v" font-size="9" fill="#E76F51">3,103</text>
+<text x="920" y="410" text-anchor="middle" class="a">Fri 08-14</text>
+<line x1="80" y1="82.27353463587923" x2="920" y2="82.27353463587923" stroke="#e74c3c" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="925" y="86.27353463587923" class="a" fill="#e74c3c">Avg: 4200</text>
+</svg>

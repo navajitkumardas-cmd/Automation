@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<defs><style>.t{font-family:Arial,sans-serif;font-size:16px;font-weight:bold;fill:#1a1a2e}.s{font-family:Arial,sans-serif;font-size:12px;fill:#555}.l{font-family:Arial,sans-serif;font-size:11px;fill:#333}.a{font-family:Arial,sans-serif;font-size:10px;fill:#666}.v{font-family:Arial,sans-serif;font-size:10px;font-weight:bold;fill:#1a1a2e}.g{stroke:#e0e0e0;stroke-width:0.5}</style></defs>
+<rect width="1000" height="700" fill="#fafafa"/>
+<text x="60" y="20" class="t">Outlet Orders & Line Fill Rate - ISH Week</text>
+<text x="60" y="38" class="s">3,629 orders | 16,981 line items | 56.0% fill</text>
+<text x="60" y="55" class="s" font-weight="bold">Daily Outlet Orders Placed</text>
+<line x1="60" y1="60" x2="960" y2="60" class="g"/>
+<line x1="60" y1="130" x2="960" y2="130" class="g"/>
+<line x1="60" y1="200" x2="960" y2="200" class="g"/>
+<line x1="60" y1="270" x2="960" y2="270" class="g"/>
+<line x1="60" y1="340" x2="960" y2="340" class="g"/>
+<line x1="60" y1="60" x2="60" y2="340" class="g"/>
+<line x1="210" y1="60" x2="210" y2="340" class="g"/>
+<line x1="360" y1="60" x2="360" y2="340" class="g"/>
+<line x1="510" y1="60" x2="510" y2="340" class="g"/>
+<line x1="660" y1="60" x2="660" y2="340" class="g"/>
+<line x1="810" y1="60" x2="810" y2="340" class="g"/>
+<line x1="960" y1="60" x2="960" y2="340" class="g"/>
+<text x="52" y="64" text-anchor="end" class="a">631</text>
+<text x="52" y="134" text-anchor="end" class="a">473</text>
+<text x="52" y="204" text-anchor="end" class="a">316</text>
+<text x="52" y="274" text-anchor="end" class="a">158</text>
+<text x="52" y="344" text-anchor="end" class="a">0</text>
+<rect x="109.28571428571429" y="60" width="30" height="280" fill="#BC4B51" opacity="0.85"/>
+<text x="124.28571428571429" y="55" text-anchor="middle" class="v" font-size="9">631</text>
+<text x="124.28571428571429" y="355" text-anchor="middle" class="a">Sat</text>
+<rect x="237.8571428571429" y="135.43581616481774" width="30" height="204.56418383518226" fill="#BC4B51" opacity="0.85"/>
+<text x="252.8571428571429" y="130.43581616481774" text-anchor="middle" class="v" font-size="9">461</text>
+<text x="252.8571428571429" y="355" text-anchor="middle" class="a">Sun</text>
+<rect x="366.42857142857144" y="103.04278922345483" width="30" height="236.95721077654517" fill="#BC4B51" opacity="0.85"/>
+<text x="381.42857142857144" y="98.04278922345483" text-anchor="middle" class="v" font-size="9">534</text>
+<text x="381.42857142857144" y="355" text-anchor="middle" class="a">Mon</text>
+<rect x="495.00000000000006" y="117.24247226624405" width="30" height="222.75752773375595" fill="#BC4B51" opacity="0.85"/>
+<text x="510.00000000000006" y="112.24247226624405" text-anchor="middle" class="v" font-size="9">502</text>
+<text x="510.00000000000006" y="355" text-anchor="middle" class="a">Tue</text>
+<rect x="623.5714285714287" y="132.77337559429478" width="30" height="207.22662440570522" fill="#BC4B51" opacity="0.85"/>
+<text x="638.5714285714287" y="127.77337559429478" text-anchor="middle" class="v" font-size="9">467</text>
+<text x="638.5714285714287" y="355" text-anchor="middle" class="a">Wed</text>
+<rect x="752.1428571428572" y="87.06814580031696" width="30" height="252.93185419968304" fill="#BC4B51" opacity="0.85"/>
+<text x="767.1428571428572" y="82.06814580031696" text-anchor="middle" class="v" font-size="9">570</text>
+<text x="767.1428571428572" y="355" text-anchor="middle" class="a">Thu</text>
+<rect x="880.7142857142859" y="134.10459587955626" width="30" height="205.89540412044374" fill="#BC4B51" opacity="0.85"/>
+<text x="895.7142857142859" y="129.10459587955626" text-anchor="middle" class="v" font-size="9">464</text>
+<text x="895.7142857142859" y="355" text-anchor="middle" class="a">Fri</text>
+<text x="500" y="385" text-anchor="middle" class="s" font-weight="bold">Line Fill Rate Breakdown</text>
+<text x="500" y="400" text-anchor="middle" class="a">9,512 of 16,980 lines in full (56.0%)</text>
+<path d="M 420 490 L 420 410 A 80 80 0 0 1 425.0328029177181 569.8415361499979 Z" fill="#2A9D8F" opacity="0.85"/>
+<text x="524.9479911686535" y="486.6955863357908" text-anchor="middle" class="v" font-size="10">49.0%</text>
+<path d="M 420 490 L 425.0328029177181 569.8415361499979 A 80 80 0 0 1 366.9785192906892 549.9059478131527 Z" fill="#6A994E" opacity="0.85"/>
+<text x="385.8980972249513" y="589.307906166232" text-anchor="middle" class="v" font-size="10">12.5%</text>
+<path d="M 420 490 L 366.9785192906892 549.9059478131527 A 80 80 0 0 1 420 410 Z" fill="#E76F51" opacity="0.85"/>
+<text x="321.81449080184973" y="452.78970863457334" text-anchor="middle" class="v" font-size="10">38.5%</text>
+</svg>
